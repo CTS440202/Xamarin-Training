@@ -1,10 +1,10 @@
 ﻿<Properties StartupItem="WriteAndReadAFile/WriteAndReadAFile.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WriteAndReadAFile/CreateWriteAndReadFromAFile.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WriteAndReadAFile/Program.cs">
     <Files>
-      <File FileName="WriteAndReadAFile/Program.cs" Line="15" Column="4" />
+      <File FileName="WriteAndReadAFile/Program.cs" Line="13" Column="117" />
       <File FileName="WriteAndReadAFile/CreateWriteAndReadFromAFile.cs" Line="3" Column="19" />
-      <File FileName="WriteAndReadAFile/ReverseLineRead.cs" Line="12" Column="17" />
+      <File FileName="WriteAndReadAFile/ReverseLineRead.cs" Line="16" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
