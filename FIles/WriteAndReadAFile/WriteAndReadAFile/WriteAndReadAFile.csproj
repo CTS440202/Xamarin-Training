@@ -40,6 +40,7 @@
     <Compile Include="CreateDirectory.cs" />
     <Compile Include="CopyContentFromOneFileToOther.cs" />
     <Compile Include="JSONSerialization.cs" />
+    <Compile Include="EncryptAndDecrypt.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
