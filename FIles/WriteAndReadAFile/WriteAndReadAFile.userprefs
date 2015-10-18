@@ -1,10 +1,10 @@
 ﻿<Properties StartupItem="WriteAndReadAFile/WriteAndReadAFile.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WriteAndReadAFile/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WriteAndReadAFile/JSONSerialization.cs">
     <Files>
-      <File FileName="WriteAndReadAFile/Program.cs" Line="13" Column="117" />
-      <File FileName="WriteAndReadAFile/CreateWriteAndReadFromAFile.cs" Line="3" Column="19" />
-      <File FileName="WriteAndReadAFile/ReverseLineRead.cs" Line="16" Column="6" />
+      <File FileName="WriteAndReadAFile/Program.cs" Line="40" Column="88" />
+      <File FileName="WriteAndReadAFile/JSONSerialization.cs" Line="58" Column="1" />
+      <File FileName="WriteAndReadAFile/EncryptAndDecrypt.cs" Line="62" Column="94" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
