@@ -1,9 +1,9 @@
 ﻿<Properties StartupItem="iOS/DemoMasterDetail.iOS.csproj" RefactoringSettings.EnableRefactorings="True">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.0" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPadAir.9.0" />
   <MonoDevelop.Ide.Workbench ActiveDocument="DemoMasterDetail/Person.cs">
     <Files>
       <File FileName="DemoMasterDetail/Person.cs" Line="48" Column="5" />
-      <File FileName="DemoMasterDetail/EditProfilePage.cs" Line="163" Column="33" />
+      <File FileName="DemoMasterDetail/EditProfilePage.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
