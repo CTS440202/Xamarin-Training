@@ -8,19 +8,8 @@ namespace DemoMasterDetail
 	{
 		public App ()
 		{
-			MainPage = new MasterDetail ();
-			// The root page of your application
-//			MainPage = new ContentPage {
-//				Content = new StackLayout {
-//					VerticalOptions = LayoutOptions.Center,
-//					Children = {
-//						new Label {
-//							XAlign = TextAlignment.Center,
-//							Text = "Welcome to Xamarin Forms!"
-//						}
-//					}
-//				}
-//			};
+			MainPage = new LoginPage ();
+//			MainPage = new MasterDetail();
 		}
 
 		protected override void OnStart ()

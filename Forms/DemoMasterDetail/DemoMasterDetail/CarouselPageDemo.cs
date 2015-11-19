@@ -9,22 +9,22 @@ namespace DemoMasterDetail
 	{
 		public CarouselPageDemo ()
 		{
-			List<ContentPage> pages = new List<ContentPage> (3);
-			Color[] colors = { Color.Red, Color.Green, Color.Blue };
-			foreach (Color c in colors) {
-				pages.Add (new ContentPage { Content = new StackLayout {
-						Children = {
-							new BoxView {
-								Color = c,
-								VerticalOptions = LayoutOptions.FillAndExpand
-							}
-						}
-					}
-				});
-			}
-			this.Children.Add (pages [0]);
-			this.Children.Add (pages [1]);
-			this.Children.Add (pages [2]);  
+			this.Title = "CarouselPage";
+
+//			this.ItemsSource = new NamedColor[] 
+//			{
+//				new NamedColor("Red", Color.Red),
+//				new NamedColor("Yellow", Color.Yellow),
+//				new NamedColor("Green", Color.Green),
+//				new NamedColor("Aqua", Color.Aqua),
+//				new NamedColor("Blue", Color.Blue),
+//				new NamedColor("Purple", Color.Purple)
+//			};
+//
+//			this.ItemTemplate = new DataTemplate(() =>
+//				{
+//					return new NamedColorPage(true);
+//				});
 		}
 	}
 }
